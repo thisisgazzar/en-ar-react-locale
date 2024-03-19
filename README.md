@@ -1,1 +1,1 @@
-# Englsh - Arabic React Locale Template
+# English - Arabic React Locale Template
